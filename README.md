@@ -1,3 +1,6 @@
+
+<img src="web-g07883b572_1920.png" alt="Jose Luis Garcia Tucci, Electrical Engineer - Data Scientist">
+
 ### Hi there 👋
 
 ### <div align="center">I'm Jose Luis, Electrical Engineer with a  passion for coding and data science 👨‍💻 working remotely since 2013 🚀</div>  
