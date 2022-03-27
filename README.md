@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-### <div align="center">I'm Jose Luis, Electrical Engineer with a  passion for coding and data science 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Jose Luis, Electrical Engineer with a  passion for coding and data science 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on GE Renewable Energy  
