@@ -6,7 +6,7 @@
 
 ### <div align="center">I'm Jose Luis, Electrical Engineer with a  passion for coding and data science 👨‍💻</div>  
   
-- 🌱 I’m currently finishign my Master's in Data Science
+- 🌱 I’m currently finishins my Master's in Data Science
 
 - ❓ Ask me about anything related to Power Systems Simulations  
   
