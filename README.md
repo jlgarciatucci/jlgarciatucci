@@ -48,7 +48,7 @@ currently focused on <strong>data science, machine learning, and analytics appli
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" height="50"/>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn.svg" height="50"/>
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" height="50"/>
 </div>
 
 </td>
@@ -58,8 +58,8 @@ currently focused on <strong>data science, machine learning, and analytics appli
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="50"/>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="50"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib.svg" height="50"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seaborn.svg" height="50"/>
+  <img style="margin: 10px" src="https://media.licdn.com/dms/image/v2/D4D12AQFq38cGkv_oHQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1679493396295?e=2147483647&v=beta&t=8hBosvau_9_t0Nt46DZ89TxWOgFZg_z47cMFn8o5cmM" height="50"/>
+  <img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="50"/>
 </div>
 
 </td>
@@ -68,10 +68,13 @@ currently focused on <strong>data science, machine learning, and analytics appli
 ### Engineering & Dev
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sqlite.svg" height="50"/>
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original.svg" height="50"/>
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" height="50"/>
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/SQLite.svg" height="50"/>
+  <img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="50"/>
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
 </div>
+
+
 
 </td>
 </tr>
